@@ -48,7 +48,3 @@ Git - это одна из реализаций распределённых с�
 
 ![git branch](https://avatars.mds.yandex.net/get-images-cbir/790415/2jpUBPDixDGdX1T2MstA6w3341/ocr)
 
-git me
-;;';;';';';';'hjjkkmkm
-
-6g 6g6g65 5g 5 g5 55
